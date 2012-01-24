@@ -1,0 +1,14 @@
+Descripción del problema:
+Dado un número decimal devolver el mismo en numeración romana.
+
+División del problema en pequeñas soluciones: (test)
+Si nos dan 1 devolvemos I
+Si nos dan 2 devolvemos II
+Si nos dan 3 devolvemos III
+Si nos dan 6 devolvemos VI
+
+
+
+
+
+
