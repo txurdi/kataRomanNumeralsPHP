@@ -25,7 +25,7 @@ Creamos una batería de pruebas con los números que nos pueden parecer conflict
 - No hemos guardado las versiones del programa según hacíamos los test, prometemos hacerlo en la siguiente kata!
 
 ## Autores
-En [@SocSoft](http://twitter.com/SocSoft):
+- En [@SocSoft](http://twitter.com/SocSoft):
 - Jorge García [@el_y0rtx](http://twitter.com/el_y0rtx)
 - Igor Ormaetxebarria [@txurdi](http://twitter.com/txurdi)
 
