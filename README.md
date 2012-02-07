@@ -1,6 +1,6 @@
 KataRomanNumerals
 =================
-24 de Febrero de 2012.
+24 de Enero de 2012.
 
 
 ## ¿Qué es esto?
