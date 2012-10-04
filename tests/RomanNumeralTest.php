@@ -1,5 +1,5 @@
 <?php
-include "RomanNumeral.php";
+include "../RomanNumeral.php";
 
 class RomanNumeralTest extends PHPUnit_Framework_TestCase {
 	
